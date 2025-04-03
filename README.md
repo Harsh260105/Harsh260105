@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [FinWise](https://github.com/Harsh260105/FinWise)
 
-- 👨‍💻 All of my projects are available at [https://harsh260105.github.io/harsh-patel-portfolio/](https://harsh260105.github.io/harsh-patel-portfolio/)
+- 👨‍💻 All of my projects are available at [https://harsh-patel-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN, comp. programming**
 
