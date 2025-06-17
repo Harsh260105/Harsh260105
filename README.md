@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh260105" alt="harsh260105" /></a> </p>
 
-- 🔭 I’m currently working on [VIDTUBE](https://github.com/Harsh260105/VIDTUBE)
+- 🔭 I’m currently working on [EduDash]()
 
-- 🌱 I’m currently learning **redux, next.js, SQL database, typescript**
+- 🌱 I’m currently learning **AWS, SQL database, typescript**
 
 - 👯 I’m looking to collaborate on [FinWise](https://github.com/Harsh260105/FinWise)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at https://harsh-patel-portfolio.vercel.app/
 
-- 💬 Ask me about **MERN, comp. programming**
+- 💬 Ask me about **MERN, comp. programming, Full Stack, Cloud**
 
 - 📫 How to reach me **harsh.work260@gmail.com**
 
