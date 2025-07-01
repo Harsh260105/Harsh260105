@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh260105&label=Profile%20views&color=0e75b6&style=flat" alt="harsh260105" /> </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh260105&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harsh260105&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" /> </p>
 
 - 🔭 I’m currently working on [EduDash]()
 
