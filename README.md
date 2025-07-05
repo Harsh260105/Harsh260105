@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshpatel2601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshpatel2601" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harsh_patel_2601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_patel_2601" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@harsh_patel_0265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harsh_patel_0265" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshpatel2601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemax-patel" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Harsh_Patel_2601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemaxpatel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Harsh_Patel_0265" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2b8d532d-e8dc-405b-8e34-a4ada1684302" alt="@hemaxpatel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
