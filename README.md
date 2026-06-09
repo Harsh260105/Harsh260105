@@ -1,28 +1,39 @@
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
-<h3 align="center">Full-Stack Developer | MERN & Next.js | Cloud & DevOps Enthusiast | GSSoC'24 Contributor | AI-900 Certified | Passionate about Web, AI, and Blockchain</h3>
+
+<h3 align="center">
+Software Engineer | Full-Stack Developer | AWS Solutions Architect Associate | React, .NET & Spring Boot | Cloud & Backend Enthusiast
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh260105&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh260105&column=7&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
-</p>
-
 ---
 
-### 🔥 About Me
-- 🔭 I’m currently working on **EduDash**
-- 🌱 Learning **AWS | SQL | TypeScript**
-- 👯 Collaborating on **[FinWise](https://github.com/Harsh260105/FinWise)** – a financial wellness tracker
-- 🤝 Looking for contributors for **FinWise**
-- 💬 Ask me about **MERN Stack, Competitive Programming, Cloud, Full Stack Development**
-- 🌐 Portfolio: [harsh-patel-portfolio.vercel.app](https://harsh-patel-portfolio.vercel.app/)
-- 📫 Reach me at **harsh.work260@gmail.com**
+## 🚀 About Me
 
+* 🎓 Computer Engineering Student
+* 💼 Software Development Intern at Roima Intelligence
+* ☁️ AWS Certified Solutions Architect – Associate
+* 🌱 Currently exploring Cloud Architecture, System Design, DevOps, and Distributed Systems
+* 🏗️ Experienced in building full-stack applications using React, Next.js, .NET, Spring Boot, Node.js, PostgreSQL, and AWS
+
+### 📌 Recent Experience
+
+* A large-scale Recruitment Management System using .NET and React.
+* Worked with Spring Boot, .NET, React, SQL, Git, and REST APIs during my internship
+* Contributed to internal enterprise applications, feature development, bug fixing, and maintenance
+* Hands-on experience with modern development workflows and collaborative software engineering practices
+
+### 🌐 Portfolio
+
+* Portfolio: https://harsh-patel-portfolio.vercel.app
+* LinkedIn: https://www.linkedin.com/in/harshpatel2601
+* GitHub: https://github.com/Harsh260105
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/harshpatel2601" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -47,11 +58,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg" alt="ASP.NET CORE" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="SpringBoot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
@@ -63,6 +77,22 @@
 </p>
 
 ---
+
+### 💬 Ask Me About
+
+* Full-Stack Development
+* React & Next.js
+* .NET
+* Spring Boot
+* Node.js
+* AWS Cloud Architecture
+* PostgreSQL & Databases
+* System Design Fundamentals
+* Docker & Cloud Deployments
+
+### 📫 Reach Me
+
+* Email: [harsh.work260@gmail.com](mailto:harsh.work260@gmail.com)
 
 ### 📊 GitHub Stats
 <p>
